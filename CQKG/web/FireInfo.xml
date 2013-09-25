@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<NewSourceFormat>
+	<Table1>
+		<AviationCompany>中国东方航空</AviationCompany>
+		<AviationCompanyNumber>MU</AviationCompanyNumber>
+		<FlightNumber>MU5472</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>济南</Destination_CH>
+		<IntendPlayDateTime>2013-7-29 23:00:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 3:52:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 1:00:00</IntendArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>飞龙航空</AviationCompany>
+		<AviationCompanyNumber>Z2</AviationCompanyNumber>
+		<FlightNumber>Z2835</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>卡利波</Destination_CH>
+		<IntendPlayDateTime>2013-7-29 23:10:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 11:12:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 3:20:00</IntendArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>海南航空</AviationCompany>
+		<AviationCompanyNumber>HU</AviationCompanyNumber>
+		<FlightNumber>HU7258</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>深圳</Destination_CH>
+		<IntendPlayDateTime>2013-7-30 10:05:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 10:03:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 11:55:00</IntendArriveDateTime>
+		<FactArriveDateTime>2013-7-30 11:43:00</FactArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>南方</AviationCompany>
+		<AviationCompanyNumber>CZ</AviationCompanyNumber>
+		<FlightNumber>CZ3642</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>郑州</Destination_CH>
+		<IntendPlayDateTime>2013-7-30 10:10:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 10:30:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 11:35:00</IntendArriveDateTime>
+		<FactArriveDateTime>2013-7-30 12:02:00</FactArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>海南航空</AviationCompany>
+		<AviationCompanyNumber>HU</AviationCompanyNumber>
+		<FlightNumber>HU7869</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>延安</Destination_CH>
+		<IntendPlayDateTime>2013-7-30 10:15:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 10:46:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 11:55:00</IntendArriveDateTime>
+		<FactArriveDateTime>2013-7-30 12:07:00</FactArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>首都航空</AviationCompany>
+		<AviationCompanyNumber>JD</AviationCompanyNumber>
+		<FlightNumber>JD5172</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>广州</Destination_CH>
+		<IntendPlayDateTime>2013-7-30 10:20:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 10:22:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 12:10:00</IntendArriveDateTime>
+		<FactArriveDateTime>2013-7-30 12:04:00</FactArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>中国东方航空</AviationCompany>
+		<AviationCompanyNumber>MU</AviationCompanyNumber>
+		<FlightNumber>MU2262</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>西安</Destination_CH>
+		<IntendPlayDateTime>2013-7-30 10:20:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 10:50:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 11:25:00</IntendArriveDateTime>
+		<FactArriveDateTime>2013-7-30 11:53:00</FactArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>春秋</AviationCompany>
+		<AviationCompanyNumber>9C</AviationCompanyNumber>
+		<FlightNumber>9C8980</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>香港</Destination_CH>
+		<IntendPlayDateTime>2013-7-30 10:25:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 10:41:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 12:40:00</IntendArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+	<Table1>
+		<AviationCompany>四川航空</AviationCompany>
+		<AviationCompanyNumber>3U</AviationCompanyNumber>
+		<FlightNumber>3U8516</FlightNumber>
+		<SectionStart_CH>重庆</SectionStart_CH>
+		<Destination_CH>九寨沟</Destination_CH>
+		<IntendPlayDateTime>2013-7-30 10:30:00</IntendPlayDateTime>
+		<FactPlayDateTime>2013-7-30 10:54:00</FactPlayDateTime>
+		<IntendArriveDateTime>2013-7-30 11:40:00</IntendArriveDateTime>
+		<FactArriveDateTime>2013-7-30 11:53:00</FactArriveDateTime>
+		<FlightState>起飞</FlightState>
+	</Table1>
+
+</NewSourceFormat>
